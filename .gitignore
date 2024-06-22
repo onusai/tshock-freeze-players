@@ -1,0 +1,6 @@
+.
+.vs
+obj/
+bin/Debug/net6.0/FreezePlayers.deps.json
+bin/Debug/net6.0/FreezePlayers.pdb
+bin/Debug/net6.0/HttpServer.dll
