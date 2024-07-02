@@ -18,7 +18,7 @@ namespace FreezePlayers
 
         public override string Author => "Onusai";
         public override string Description => "Prevents all playeres from moving";
-        public override string Name => "Freeze Players";
+        public override string Name => "FreezePlayers";
         public override Version Version => new Version(1, 0, 0, 0);
 
         public class ConfigData
